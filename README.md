@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/638841678.svg)](https://zenodo.org/doi/10.5281/zenodo.11262980)
 # InVivoPhotometry
 Folder "doric_photometry_analysis" contains the functions for analysis of the recorded photometry signals. We used similar algorithms for calculating the dFF (see Methods), but structured these functions by the figures it relates to. The pre-processed data can be found in the Zenodo repository (see the data availability section). The data is sorted according to the experiment/figure and must be unzipped before analysis.
 •	“average_open_field_data_AlloLiteCtrl” was used to calculate dFF signal for mice injected with AlloLite-ctr sensor and performing open filed test, average it across mice, and quantify the AUC (Figure5 i,j,k, Extended Fig6 h)
